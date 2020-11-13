@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### My Digital Footprints 🌱
 
-- I'm currently working on some of my robot ideas and trying to do something innovative ...
+- I'm currently working on some of my robot ideas and developing idea for one of my medical app management project...
 
 - I also regularly update my facebook page & so check it if you like.....
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
    - python <br/>
    - Working with micro-processors <br/>
    - Building something awesome <br/>
-   - making Youtube video'es <br/>
+   - studying <br/>
 </details>
 
 ![Ratul's github stats](https://github-readme-stats.vercel.app/api?username=Onnesok&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
