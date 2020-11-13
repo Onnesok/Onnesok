@@ -1,4 +1,6 @@
 <img src="https://github.com/Onnesok/Onnesok/blob/master/github1.gif">
+
+
 <!--
 **Onnesok/Onnesok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,11 +20,11 @@ Here are some ideas to get you started:
 ### Contact me from here
 
 <p align='center'>
-<a href="https://www.youtube.com/Onnesok"><img height="30" src=" raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/"><img height="30" src=" raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/Onnesok/"><img height="30" src=" raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/Onnesok99/"><img height="30" src=" raw=true"></a>
-<a href="https://www.pinterest.com/ratulhasan94/"><img height="30" src=" raw=true"></a>
+<a href="https://www.youtube.com/Onnesok"><img height="30" src="https://github.com/Onnesok/Onnesok/blob/master/youtube.png" raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/"><img height="30" src="https://github.com/Onnesok/Onnesok/blob/master/twitter.png" raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/Onnesok/"><img height="30" src="https://github.com/Onnesok/Onnesok/blob/master/instagram.png" raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/Onnesok99/"><img height="30" src="https://github.com/Onnesok/Onnesok/blob/master/facebook_logo.png" raw=true"></a>
+<a href="https://www.pinterest.com/ratulhasan94/"><img height="30" src="https://github.com/Onnesok/Onnesok/blob/master/pinterest.png" raw=true"></a>
 </p>
 
 ### My Digital Footprints 🌱
