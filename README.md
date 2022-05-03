@@ -50,7 +50,8 @@ Here are some ideas to get you started:
 
 
 ### My current status 🌱
-   -Learning  python <br/>
+
+   - Learning  python <br/>
    - Working with micro-processors <br/>
    - working on 10+ robotics projects <br/>
    - Doing some research paper <br/>
