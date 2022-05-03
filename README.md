@@ -1,4 +1,4 @@
-<img src="https://github.com/Onnesok/Onnesok/blob/master/gif.gif">
+<img src="https://github.com/Onnesok/Onnesok/blob/master/git.gif">
 
 
 <!--
