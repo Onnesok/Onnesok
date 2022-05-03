@@ -8,7 +8,7 @@
 [![Instagram URL](https://img.shields.io/static/v1?color=red&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/Onnesok/)
 [![Pinterest URL](https://img.shields.io/static/v1?color=red&label=Pinterest&logo=pinterest&logoColor=white&style=for-the-badge&message=Follow)](https://www.pinterest.com/ratulhasan94/)
 
-**I'm a huge Robotics lover personal. I know several programming language such as python, micro-python, c, c++, java-script, html, css etc. I also have knowledge about mechanical designing, logical circuit designing, 3d modeling, software development, cyber security, server adminstration, cloud computing and many more**
+**I'm a Robotics lover😍. I know several programming language such as python, micro-python, c, c++, java-script, html, css etc. I also have knowledge about mechanical designing, logical circuit designing, 3d modeling, software development, cyber security, server adminstration, cloud computing, linux ecosystem and many more**
 
 I love sharing my knowledge and experience.....
 - 🔭 I’m currently working on some innovative projects  ...
