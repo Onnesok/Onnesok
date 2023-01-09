@@ -7,6 +7,7 @@
 [![Youtube URL](https://img.shields.io/static/v1?color=red&label=Youtube&logo=Youtube&logoColor=white&style=for-the-badge&message=subscribe)](https://www.youtube.com/Onnesok)
 [![Instagram URL](https://img.shields.io/static/v1?color=red&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/Onnesok/)
 [![Pinterest URL](https://img.shields.io/static/v1?color=red&label=Pinterest&logo=pinterest&logoColor=white&style=for-the-badge&message=Follow)](https://www.pinterest.com/ratulhasan94/)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Onnesok&label=Profile%20views&color=0e75b6&style=flat" alt="Onnesok" /> </p>
 
 **I'm a Robotics lover😍. I know several programming language such as python, micro-python, c, c++, java-script, html, css etc. I also have knowledge about mechanical designing, logical circuit designing, 3d modeling, software development, cyber security, server adminstration, cloud computing, linux ecosystem and many more**
 
