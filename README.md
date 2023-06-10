@@ -115,12 +115,4 @@ Here are some ideas to get you started:
 
 
 
-![
-
-<hr>
-
-![my github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Onnesok&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
-
-<hr>
-
 
