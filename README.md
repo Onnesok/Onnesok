@@ -24,6 +24,7 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apdart"><img alt="Dart" src="https://img.shields.io/badge/dart-FF0000.svg?logo=dart&logoColor=white"></a>
 
 </p>
 
@@ -34,6 +35,7 @@
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-55153D?logo=opencv&logoColor=white"></a>
     <a href="#"><img alt="YOLO" src="https://img.shields.io/badge/YOLO-FF2F00.svg?logo=YOLO&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-327FC7.svg?logo=Flutter&logoColor=white"></a>
     
 </p>
 
@@ -41,6 +43,7 @@
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Server based" src="https://img.shields.io/badge/Server%20based-FF0000.svg?logo=wordpress&logoColor=white"></a>
 
 ### 💻 Software and tools
 
@@ -97,14 +100,6 @@
 Here are some ideas to get you started:
 -->
 
-
-### My current status
-
-   - Learning  python <br/>
-   - Working with micro-processors <br/>
-   - working on 10+ robotics projects <br/>
-   - Doing some research paper <br/>
-   - studying <br/>
 
 
 
