@@ -31,6 +31,7 @@
 ### 🧰 Frameworks and libraries
 
 <p>
+    <a href="#"><img alt="cuDNN" src="https://img.shields.io/badge/cuDNN-34A813.svg?logo=nvidia&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-55153D?logo=opencv&logoColor=white"></a>
     <a href="#"><img alt="YOLO" src="https://img.shields.io/badge/YOLO-FF2F00.svg?logo=YOLO&logoColor=white"></a>
@@ -61,6 +62,7 @@
 ### 💻 Embedded System and Robotics
 
 <p>
+    <a href="#"><img alt="ROS" src="https://img.shields.io/badge/-ROS-B22E41?logo=ros&logoColor=white"></a>
     <a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-302E31?logo=raspberrypi&logoColor=white"></a>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
 </p>
